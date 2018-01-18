@@ -51,3 +51,10 @@ html, body {
     background: #2980B9;
     border-radius: 50px;
 }
+
+.colorInput {
+    border: 1px solid #2b2b2b;
+    color: #2b2b2b;
+    padding: 2% 5%;
+    font-size: 1.2em;
+}
