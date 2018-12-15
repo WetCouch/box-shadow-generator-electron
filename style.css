@@ -52,6 +52,14 @@ html, body {
     border-radius: 50px;
 }
 
+.inputBox {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 1%;
+    border: 1px solid #2b2b2b;
+    font-size: 1.05em;
+}
+
 .colorInput {
     border: 1px solid #2b2b2b;
     color: #2b2b2b;
